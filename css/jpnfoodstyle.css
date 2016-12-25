@@ -23,7 +23,7 @@ html, body {
   font-weight: 700;
   margin: 0;
   padding: 0;
-  color:blanchedalmond;
+  color:antiquewhite;
 }
 
 .firsth3{
@@ -93,6 +93,6 @@ footer .glyphicon:hover {
 }
 
 .foodicon {
-    height: 200px !important;
-    width: 30px !important;
+    height: 100px !important;
+    width: 100px !important;
 }
