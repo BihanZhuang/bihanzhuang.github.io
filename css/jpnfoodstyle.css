@@ -91,3 +91,8 @@ footer .glyphicon {
 footer .glyphicon:hover {
   color: #306d9f;
 }
+
+.foodicon {
+    height: 200px !important;
+    width: 30px !important;
+}
