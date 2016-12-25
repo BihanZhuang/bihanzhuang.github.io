@@ -61,3 +61,50 @@ body{
 .navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
     color:#000000;
 }
+
+#section-1 {
+    z-index: 1;
+    color: #fff;
+    height: 100vh;
+}
+        
+.navbar {
+    z-index: 5;
+}
+
+
+ #section-1 .parallax-layer-back {
+    background-image: url("https://static.pexels.com/photos/9210/food-japanese-food-photography-sushi.jpg")no-repeat center center !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}       
+        
+#section-2 {
+    z-index: 2;
+    position: relative;
+    background: #fff;
+    width: 100%;
+}
+        
+#section-3 {
+    z-index: 1;
+    color: #fff;
+    height: 100vh;
+}
+         
+#section-3 .parallax-layer-back {
+    background: url("../images/food-japanese-food-photography-sushi.jpg")no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+         
+#section-4 {
+    z-index: 2;
+    position: relative;
+    background: #fff;
+    width: 100%;
+}
