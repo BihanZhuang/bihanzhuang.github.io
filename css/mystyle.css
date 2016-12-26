@@ -61,3 +61,8 @@ body{
 .navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
     color:#000000;
 }
+
+#timeline {
+    background: url(../images/pexels-photo-219000.jpeg)
+    padding: 50px 0px 0px 0px;
+}
