@@ -11,7 +11,7 @@
 }
 
 .row-footer{
-    background-color: #AfAfAf;
+    background-color: beige;
     margin:0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -19,12 +19,12 @@
 .jumbotron {
     padding:70px 30px 70px 30px;
     margin:0px auto;
-    background: #7986CB ;
-    color:floralwhite;
+    background: url(../images/cutesushi.png)no-repeat center center fixed; 
+    color:darkgray;
 }
 
 address{
-    font-size:80%;
+    font-size:100%;
     margin:0px;
     color:#0f0f0f;
 }
