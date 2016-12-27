@@ -78,6 +78,7 @@ body{
 #resume {
     min-height:400px;
     display: none;
+    background-color: beige;
 }
 
 .showres {
