@@ -11,7 +11,7 @@
 }
 
 .row-footer{
-    background-color: beige;
+    background-color: white;
     margin:0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -32,6 +32,14 @@ address{
 body{
     padding:50px 0px 0px 0px;
     z-index:0;
+}
+
+.bootstrap-select,.selector{
+    text-align: center;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+    border-bottom: 1px ridge;
+    background-color: beige;
 }
 
 .navbar-inverse {
@@ -63,6 +71,17 @@ body{
 }
 
 #timeline {
-    background: url(../images/pexels-photo-219000.jpeg)
+    background: url(../images/pexels-photo-219000.jpeg)no-repeat center center fixed; 
     padding: 50px 0px 0px 0px;
+}
+
+#resume {
+    min-height:400px;
+    display: none;
+}
+
+.showres {
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+    border-bottom: 1px ridge;
 }
