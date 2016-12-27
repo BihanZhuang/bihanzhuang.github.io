@@ -34,10 +34,11 @@ body{
     z-index:0;
 }
 
-.bootstrap-select,.selector{
+.bootstrap-select,.selector,.btn-group{
     text-align: center;
     margin:0px auto;
     padding: 20px 0px 20px 0px;
+    border-bottom: none !important;
 }
 
 .navbar-inverse {
