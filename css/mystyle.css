@@ -39,7 +39,6 @@ body{
     margin:0px auto;
     padding: 20px 0px 20px 0px;
     border-bottom: 1px ridge;
-    background-color: beige;
 }
 
 .navbar-inverse {
@@ -78,11 +77,6 @@ body{
 #resume {
     min-height:400px;
     display: none;
-    background-color: beige;
-}
-
-.showres {
     margin:0px auto;
     padding: 20px 0px 20px 0px;
-    border-bottom: 1px ridge;
 }
